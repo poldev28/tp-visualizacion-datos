@@ -10,13 +10,15 @@
 
 ## 👥 Integrantes del Grupo
 - Norberto Ruben Lacoste (*poldev28*)
-- *(Completar con los integrantes del grupo)*
+- Mariela Miranda
+- Santiago Cagigas
+- Germán Orellano
 
 ---
 
 ## 🎯 Descripción del Proyecto
 
-Este repositorio contiene el código práctico desarrollado para la defensa del **Trabajo Práctico Colaborativo**, centrado en la **Visualización de Datos** utilizando las bibliotecas fundamentales del ecosistema de Python: **Matplotlib** y **Seaborn**.
+Este repositorio contiene el código práctico desarrollado para la defensa del **Trabajo Práctico Colaborativo**, centrado en la **Visualización de Datos** utilizando las bibliotecas fundamentales del ecosistema de Python: **Matplotlib** y **Seaborn**. También se usó Julius IA para la limpieza de datos y la creación de 2 gráficos.
 
 A través de distintos scripts prácticos se demuestra:
 1. Construcción de gráficos de líneas y barras desde cero con `matplotlib.pyplot`.

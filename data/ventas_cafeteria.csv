@@ -1,0 +1,41 @@
+ID,Fecha,Producto,Categoria,Cantidad,Precio_Unitario,Ciudad
+1,2026-01-10,Cafe Espresso, ,2,1.50,Madrid
+2,2026-01-10,Croissant,Panaderia,1,2.00,Madrid
+3,2026-01-11,Cafe con Leche,Bebidas,3,1.80,Barcelona
+4,2026-01-12,Zumo de Naranja,Bebidas,1,3.00,Valencia
+5,2026-01-12,Tarta de Queso,Postres,2,3.50,Madrid
+6,2026-01-13,Cafe Espresso,Bebidas,4,1.50,Barcelona
+7,2026-01-14,Croissant,Panaderia,2,2.00,Valencia
+8,2026-01-15,Tarta de Queso,Postres,1,3.50,Madrid
+1,2026-01-10,Cafe Espresso,Bebidas,2,1.50,Madrid
+2,2026-01-10,Croissant,Panaderia,1,2.00,Madrid
+3,2026-01-11,Cafe con Leche,Bebidas,3,1.80,Barcelona
+4,2026-01-12,Zumo de Naranja,Bebidas,1,3.00,Valencia
+5,2026-01-12,Tarta de Queso,Postres,2,3.50,Madrid
+6,2026-01-13,Cafe Espresso,Bebidas,4,1.50,Barcelona
+7,2026-01-14,Croissant,Panaderia,2,2.00,Valencia
+8,2026-01-15,Tarta de Queso, ,1,3.50,Madrid
+1,2026-01-10,Cafe Espresso,Bebidas,2,1.50,Madrid
+2,2026-01-10,Croissant,Panaderia,1,2.00,Madrid
+3,2026-01-11,Cafe con Leche,Bebidas,3,1.80,Barcelona
+4,2026-01-12,Zumo de Naranja,Bebidas,1,3.00,Valencia
+5,2026-01-12,Tarta de Queso,Postres,2,3.50,Madrid
+6,2026-01-13,Cafe Espresso,Bebidas,4,1.50,Barcelona
+7,2026-01-14,Croissant,Panaderia,2,2.00,Valencia
+8,2026-01-15, ,Postres,1,3.50,Madrid
+1,2026-01-10,Cafe Espresso,Bebidas,2,1.50,Madrid
+2,2026-01-10,Croissant,Panaderia,1,2.00,Madrid
+3,2026-01-11,Cafe con Leche,Bebidas,3,1.80,Barcelona
+4,2026-01-12,Zumo de Naranja,Bebidas,1,3.00,Valencia
+5,2026-01-12,Tarta de Queso,Postres,2,3.50,Madrid
+6,2026-01-13,Cafe Espresso,Bebidas,4,1.50,Barcelona
+7,2026-01-14,Croissant,Panaderia,2,2.00,Valencia
+8,2026-01-15,Tarta de Queso,Postres,1,3.50,Madrid
+1,2026-01-10,Cafe Espresso,Bebidas,2,1.50,Madrid
+2,2026-01-10,Croissant,Panaderia,1,2.00,Madrid
+3,2026-01-11,Cafe con Leche,Bebidas,3,1.80,Barcelona
+4,2026-01-12,Zumo de Naranja,Bebidas,1,3.00,Valencia
+5,2026-01-12,Tarta de Queso,Postres,2,3.50,Madrid
+6,2026-01-13,Cafe Espresso,Bebidas,4,1.50,Barcelona
+7,2026-01-14,Croissant,Panaderia,2,2.00,Valencia
+8,2026-01-15,Tarta de Queso,Postres,1,3.50,Madrid
